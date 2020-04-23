@@ -1,0 +1,4 @@
+1- error in the linker :
+  to avoid the "undefined reference to `GradeBook::GradeBook" error while executing, I had to put both the class files, the header and the cpp in the main.cpp
+  criticality : low
+  
